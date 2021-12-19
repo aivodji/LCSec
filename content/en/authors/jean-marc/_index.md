@@ -17,17 +17,17 @@ organizations:
 bio: Professor at ETS Montrel.
 
 interests:
-- Cyber sécurité
-- Protection de la vie privée 
-- Sécurité logicielle 
-- Logiciels malveillants 
-- Cryptographie 
-- Analyse de risque
+- Cyber-security 
+- Privacy protection 
+- Software security 
+- Malware 
+- Cryptography 
+- Risk analysis 
 
 
 education:
   courses:
-  - course: Doctorat en informatique
+  - course: Ph.D. in Computer Science
     institution: McGill
     year: --
   - course: M.Sc. 
