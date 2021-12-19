@@ -6,9 +6,8 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: |
-  LCSec 
-hero_media: welcome.jpg
+title: 
+hero_media: cyber.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -19,4 +18,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+**LCSec** est le laboratoire de recherche en cybersécurité de l'ÉTS. Les principaux objectifs du labo sont ...
